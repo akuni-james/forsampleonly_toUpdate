@@ -32,3 +32,15 @@ footer {
   background-color: #0a2540;
   color: white;
 }
+
+.tagline {
+  color: teal;
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #0a2540;
+  color: white;
+}
